@@ -120,14 +120,14 @@ This produces values from `11` to `33` representing each temperature-precipitati
 | Bivariate Value | Class Combo                 | Color Hex |
 | --------------- | --------------------------- | --------- |
 | **11**          | Low Temp, Low Precipitation | `#e8e8e8` |
-| **12**          | Low Temp, Medium Precip     | `#e4acac` |
-| **13**          | Low Temp, High Precip       | `#c85a5a` |
-| **21**          | Medium Temp, Low Precip     | `#b3d1e6` |
-| **22**          | Medium Temp, Medium Precip  | `#b2aab2` |
-| **23**          | Medium Temp, High Precip    | `#985356` |
-| **31**          | High Temp, Low Precip       | `#64acbe` |
-| **32**          | High Temp, Medium Precip    | `#627f8c` |
-| **33**          | High Temp, High Precip      | `#574249` |
+| **12**          | Low Temp, Medium Precip     | `#dfb0d6` |
+| **13**          | Low Temp, High Precip       | `#be64ac` |
+| **21**          | Medium Temp, Low Precip     | `#ace4e4` |
+| **22**          | Medium Temp, Medium Precip  | `#a5add3` |
+| **23**          | Medium Temp, High Precip    | `#8c62aa` |
+| **31**          | High Temp, Low Precip       | `#5ac8c8` |
+| **32**          | High Temp, Medium Precip    | `#5698b9` |
+| **33**          | High Temp, High Precip      | `#3b4994` |
 
 Assign these manually in the **categorized symbology** panel in QGIS.
 
